@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(145, 157, 180);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  #title{
+      text-align: center;
+  }
+  #cont{
+    font-size: 30px;
+  }
+  #center{
+      color: black;
+      font-size: xx-large;
+      font-weight: 900;
+  }
+  #minus,
+  #plus {
+    padding: 1rem 2rem;
+    font-size: x-large;
+  }
+ 
